@@ -151,9 +151,9 @@ a {
 .bottom {
     display: flex;
     justify-content: space-evenly;
-    margin: 100px 20%;
-    padding: 60px 0;
-    border-radius: 20px;
+    margin: 80px 20%;
+    padding: 50px 0;
+    border-radius: 50px;
     flex-wrap: wrap;
 
     
